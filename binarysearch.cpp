@@ -46,7 +46,7 @@ int main(){
         else if(a[mid] < search){
             start = mid;
         }
-    }while(start < end && mid != start);
+    }while(start != end);
 
     if(flag == 0){
         cout << search << " not found!";
