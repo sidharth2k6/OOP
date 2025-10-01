@@ -25,10 +25,6 @@ int main(){
         }
     }
 
-    // for(i = 0; i < 10; i++){
-    //     cout << a[i] << " ";
-    // }
-
     //Searching
     start = 0;
     end = 9;
