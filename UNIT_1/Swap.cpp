@@ -11,6 +11,6 @@ int main(){
     num2 = num1 - num2;
     num1 = num1 - num2;
 
-    cout << "numbers after swapping are: " << num1 << num2;
+    cout << "numbers after swapping are: " << num1 << ' ' << num2;
     return 0;
 }
