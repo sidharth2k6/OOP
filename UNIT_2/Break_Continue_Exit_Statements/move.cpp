@@ -6,7 +6,7 @@ int main(){
     char choice = 'y';
 
     do{
-        cout << "Please enter the dicidend: ";
+        cout << "Please enter the dividend: ";
         cin >> x;
         cout << "Please enter the divisor: ";
         cin >> y;
@@ -16,7 +16,7 @@ int main(){
             continue;
         }
         
-        cout << "The quotient is "<<(x/y);
+        cout << "The quotient is "<< (x/y) << endl;;
         cout << "The remainder is " << (x%y) << endl;
         cout << "Do u wish to continue ";
         cin >> choice;
