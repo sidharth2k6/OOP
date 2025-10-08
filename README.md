@@ -4,7 +4,7 @@ This repository contains basic C++ problems related to **arrays, searching, matr
 
 ---
 
-## 📝 UNIT 1
+## 📝 UNIT 1 - Introduction to OOP and C++
 
 ### Q1. Swap numbers
 Write a program that accepts **2 numbers** from the user and **swaps** the two numbers **without using a temporary variable**.
@@ -12,7 +12,7 @@ Write a program that accepts **2 numbers** from the user and **swaps** the two n
 ### Q2. Quotient and remainder
 Write a program that accepts **2 numbers** a and b and **divides a by b** and displays the **quotient and the remainder**.
 
-## 📝 UNIT 2
+## 📝 UNIT 2 - C++ Basic Programing Statements
 
 ### Q1. Prime number til the number
 Write a program which **accepts a number from the user** and generates **prime numbers till that number**.
