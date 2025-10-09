@@ -72,6 +72,18 @@ Write a function that **takes two integers**, find out which is **smaller** and 
 
 ---
 
+## 📝 UNIT 4 - Objects and Classes
+
+### Q1. Stack
+Implement a **class stack** which simulates the **operations of the stack** allowing **LIFO** operations. Also implement **push and pop** operations for the stack.
+
+---
+
+### Q2. Array Object
+Implement a **class called Employee** that contains **name, employee number and department code**. Include a **member function getdata()** to get data from user and **store it in the object**. Write a program to test the class and **it should store information of 100 employees**.
+
+---
+
 ## 🚀 How to Use  
 - Save each program in a `.cpp` file (e.g., `q1.cpp`, `q2.cpp`, etc.)  
 - Compile using **g++**:  
