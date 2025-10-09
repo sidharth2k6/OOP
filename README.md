@@ -80,7 +80,8 @@ Implement a **class stack** which simulates the **operations of the stack** allo
 ---
 
 ### Q2. Array Object
-Implement a **class called Employee** that contains **name, employee number and department code**. Include a **member function getdata()** to get data from user and **store it in the object**. Write a program to test the class and **it should store information of 100 employees**.
+Write a program to test the class and **it should store information** of **100 employees**.
+> 📖 Implement a **class called Employee** that contains **name, employee number and department code**. Include a **member function getdata()** to get data from user and **store it in the object**.
 
 ---
 
